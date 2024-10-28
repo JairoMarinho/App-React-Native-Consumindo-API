@@ -9,7 +9,9 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~51.0.28",
+    "@expo/metro-config": "^0.18.11",
+    "axios": "^1.7.7",
+    "expo": "^51.0.38",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
     "react-native": "0.74.5"
